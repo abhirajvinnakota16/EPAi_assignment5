@@ -21,7 +21,7 @@ The function is only capable of calculating areas for triangle, square, regular 
 ## temp_convertor()
 This function accepts a temperature value either in Farenheit or Celcius and converts that to the other format. 
 
-## speed_covertor()
+## speed_convertor()
 This function accepts speed given by the user in kmph and converts that into the specified units , ie., of length and time chosen by the user.
 
 

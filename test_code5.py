@@ -14,7 +14,7 @@ README_CONTENT_CHECK_FOR = [
     'squared_power_list()',
     'polygon_area()',
     'temp_convertor()',
-    'speed_convertor()',
+#    'speed_convertor()',
 ]
 
 # Basic Functions 
